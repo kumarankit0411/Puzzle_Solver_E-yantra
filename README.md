@@ -1,5 +1,7 @@
 # Puzzle_Solver_E-yantra
 
+## Note: This code runs only on FIREBIRD V Robot 
+
 FOLLOWING ARE THE STEPS WE FOLLOWED FOR SUCCESSFUL RUNNING OF THE CODE:-
 
 
